@@ -17,7 +17,16 @@ h5,
 h6 {
   font-family: "Playfair Display", serif;
   margin-bottom: 1em;
+  
 }
+
+h2,
+p {
+
+  text-align: center;
+
+}
+
 
 nav {
   position: fixed;
@@ -53,6 +62,7 @@ nav a:active {
   height: 50vh;
   min-height: 400px;
   padding: 1rem;
+ 
 }
 
 #home {
